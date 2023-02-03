@@ -1,0 +1,1 @@
+Using locals with the help of resources
